@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const formulario = document.getElementById('registroForm');
+    const formulario = document.getElementById('formulario');
 
     formulario.addEventListener('submit', function (e) {
         e.preventDefault();
